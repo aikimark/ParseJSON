@@ -145,3 +145,10 @@ Sub testStack()
 End Sub
 
 
+Sub DataSave(parmObject As Object)
+'To Do: correctly persist the parsed object data in a friendly format
+'Solution paths:
+'    * intrinsic VB I/O
+'    * ADODB recordset and stream
+'    * XML - seems like a cheat
+End Sub
